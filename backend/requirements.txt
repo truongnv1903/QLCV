@@ -1,0 +1,13 @@
+fastapi==0.162.2
+starlette==1.10.0
+uvicorn[standard]==0.34.2
+SQLAlchemy==2.0.41
+alembic==1.16.1
+psycopg[binary]==3.2.9
+pydantic[email]==2.11.5
+python-dotenv==1.2.2
+tzdata==2026.6
+pytest==8.3.5
+httpx==0.28.1
+ruff==0.11.12
+mypy==1.15.0
